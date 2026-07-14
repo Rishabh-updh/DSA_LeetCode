@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
