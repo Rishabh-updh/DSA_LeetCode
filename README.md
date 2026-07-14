@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -37,4 +38,5 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
