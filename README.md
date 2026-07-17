@@ -21,11 +21,13 @@
 | [0009-palindrome-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
@@ -51,4 +53,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
