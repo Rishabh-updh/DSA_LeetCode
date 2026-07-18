@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0066-plus-one) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0013-roman-to-integer](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0067-add-binary) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
 | ------- |
@@ -61,4 +63,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0067-add-binary) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
