@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0136-single-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
