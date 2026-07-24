@@ -12,12 +12,14 @@
 | [0118-pascals-triangle](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0169-majority-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -83,4 +85,16 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
