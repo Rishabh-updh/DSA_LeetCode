@@ -28,6 +28,7 @@
 | [0013-roman-to-integer](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0070-climbing-stairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
@@ -97,4 +98,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
