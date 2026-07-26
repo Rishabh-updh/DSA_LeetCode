@@ -30,6 +30,7 @@
 | [0067-add-binary](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
@@ -72,9 +73,11 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
