@@ -14,6 +14,7 @@
 | [0136-single-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
