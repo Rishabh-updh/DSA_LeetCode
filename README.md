@@ -13,6 +13,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -22,6 +23,7 @@
 | [0001-two-sum](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |
