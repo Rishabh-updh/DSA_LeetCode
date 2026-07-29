@@ -37,6 +37,7 @@
 | [0268-missing-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0412-fizz-buzz) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2235-add-two-integers](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/2235-add-two-integers) |
 ## String
 |  |
 | ------- |
