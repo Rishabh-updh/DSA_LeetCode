@@ -35,6 +35,7 @@
 | [0070-climbing-stairs](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0412-fizz-buzz) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
@@ -44,6 +45,7 @@
 | [0058-length-of-last-word](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
