@@ -2,13 +2,14 @@ class Solution {
 public:
     bool isAnagram(string s, string t) {
         if(s.size()!=t.size()) return false ;
-        map<char,int> freq ;
+        int freq[256] = {0} ;
         for(int i = 0 ; i < s.size() ; i++)
             freq[s[i]]++;
-        for(int i = 0 ; i < t.size() ; i++)
-            if(freq.count(t[i]) && freq[t[i]]>0)
-                freq[t[i]]--;
-            else return false;
-        return true ; 
+        for(int i = 0 ; i < t.size() ; i++){
+            freq[t[i]]--;
+            if(freq[t[i]]<0)
+                return false ;
+        }
+        return true ;
     }
 };
