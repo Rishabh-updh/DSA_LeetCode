@@ -50,6 +50,7 @@
 | [0067-add-binary](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
@@ -72,6 +73,7 @@
 | [0027-remove-element](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
