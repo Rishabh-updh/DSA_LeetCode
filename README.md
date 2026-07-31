@@ -16,6 +16,7 @@
 | [0217-contains-duplicate](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@
 | [0217-contains-duplicate](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | [0125-valid-palindrome](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -117,6 +120,7 @@
 | [0217-contains-duplicate](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -126,4 +130,5 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
