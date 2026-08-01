@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -128,6 +129,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
