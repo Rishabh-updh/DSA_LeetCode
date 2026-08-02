@@ -18,6 +18,7 @@
 | [0268-missing-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0877-stone-game](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@
 | [0258-add-digits](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0412-fizz-buzz) |
+| [0877-stone-game](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/2469-convert-the-temperature) |
@@ -106,6 +108,7 @@
 | [0070-climbing-stairs](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0877-stone-game](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -133,4 +136,8 @@
 | [0069-sqrtx](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
