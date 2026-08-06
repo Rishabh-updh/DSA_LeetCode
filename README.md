@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0136-single-number) |
@@ -82,6 +83,7 @@
 | [0011-container-with-most-water](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0344-reverse-string) |
@@ -127,6 +129,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0242-valid-anagram) |
