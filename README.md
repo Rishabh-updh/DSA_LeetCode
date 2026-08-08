@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2390-removing-stars-from-a-string](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
@@ -152,4 +153,16 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0877-stone-game) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
