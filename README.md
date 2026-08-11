@@ -48,6 +48,7 @@
 | [0268-missing-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/2235-add-two-integers) |
