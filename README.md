@@ -81,6 +81,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0283-move-zeroes](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
