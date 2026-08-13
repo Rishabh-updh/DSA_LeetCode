@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0867-transpose-matrix](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3731-find-missing-elements](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/3731-find-missing-elements) |
@@ -112,6 +113,7 @@
 | [0067-add-binary](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0867-transpose-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Number Theory
 |  |
@@ -188,4 +190,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0100-same-tree) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
