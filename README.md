@@ -22,6 +22,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0867-transpose-matrix](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3731-find-missing-elements](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -99,6 +100,7 @@
 | [0344-reverse-string](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 | [0242-valid-anagram](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0905-sort-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
