@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -52,6 +53,7 @@
 | [0412-fizz-buzz](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/2235-add-two-integers) |
@@ -151,6 +153,7 @@
 | [0242-valid-anagram](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/0905-sort-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/Rishabh-updh/DSA_LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
